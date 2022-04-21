@@ -1,0 +1,6 @@
+.env/
+Lpr/
+.vscode/
+__pycache__/
+*.pyc
+checkpoints/
